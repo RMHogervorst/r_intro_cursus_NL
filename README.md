@@ -1,9 +1,11 @@
-# r_intro_cursus_NL
-Dutch: algemene leerdoelen voor een introductie R ggplot2 dplyr tidyverse cursus
+# Leerdoelen voor een R intro cursus in 1 of 2 dagdelen
+
 author: "Roel M. Hogervorst"
 date: "February 26, 2018"
 
 # algemeen
+Deze leerdoelen zijn bedoeld voor een superkorte intro. Ik wil de kandidaten zo snel mogelijk aan het coden krijgen. 
+Je moet snel succes hebben. 
 
 Leren van R en tidyverse bestaat uit 4 delen:
 
@@ -64,4 +66,8 @@ Leren van R en tidyverse bestaat uit 4 delen:
 - summarize doet een bewerking op de groep en geeft het resultaat per groep
 - een veel gebruikt patroon is split-apply-combine: je groepeert ergens op, bewerkt elke groep en combineerd het eindresultaat
 
+
+# Bronnen en verder lezen
+
+* http://third-bit.com/teaching/  "Geweldig goed doordacht boek van Greg Wilson over hoe je iemand het effectiefst leert programmeren"
 
