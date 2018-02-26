@@ -70,4 +70,4 @@ Leren van R en tidyverse bestaat uit 4 delen:
 # Bronnen en verder lezen
 
 * http://third-bit.com/teaching/  "Geweldig goed doordacht boek van Greg Wilson over hoe je iemand het effectiefst leert programmeren"
-
+* https://swcarpentry.github.io/r-novice-gapminder/13-dplyr/ "software carpentry voorbeeldles over dplyr"
