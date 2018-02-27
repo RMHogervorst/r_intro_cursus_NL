@@ -56,7 +56,7 @@ Leren van R en tidyverse bestaat uit 4 delen:
 ## werken met dplyr
 
 - alle functies in dplyr doen 1 ding, en 1 ding goed
-- je combineerd de kleine functies om een groter doel te bereiken
+- je combineert de kleine functies om een groter doel te bereiken
 - je kunt verschillende functies combineren met de pipe ` %>% `
 - dplyr lijkt veel op sql, maar je hoeft geen ; te gebruiken
 - je selecteerd kolommen met select
@@ -64,7 +64,7 @@ Leren van R en tidyverse bestaat uit 4 delen:
 - je maakt nieuwe kolommen met mutate
 - je kunt je dataset opdelen in groepen en bewerkingen per groep uitvoeren met group_by 
 - summarize doet een bewerking op de groep en geeft het resultaat per groep
-- een veel gebruikt patroon is split-apply-combine: je groepeert ergens op, bewerkt elke groep en combineerd het eindresultaat
+- een veel gebruikt patroon is split-apply-combine: je groepeert ergens op, bewerkt elke groep en combineert het eindresultaat
 
 
 # Bronnen en verder lezen
